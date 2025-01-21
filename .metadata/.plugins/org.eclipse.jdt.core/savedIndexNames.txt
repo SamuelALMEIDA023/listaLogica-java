@@ -1,8 +1,10 @@
 INDEX VERSION 1.134+C:\eclipse\listaDeLogica\.metadata\.plugins\org.eclipse.jdt.core
 3785019584.index
-1050429474.index
+1896233950.index
 1865797976.index
-4148221229.index
-1930402019.index
 4225131737.index
+1930402019.index
 2504895465.index
+1050429474.index
+4148221229.index
+1248789400.index

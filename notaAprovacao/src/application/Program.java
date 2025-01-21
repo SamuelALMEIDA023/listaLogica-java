@@ -20,9 +20,9 @@ public class Program {
 
         // Verificando aprovação
         if (media >= 5.0) {
-            System.out.println("Aprovado! Média: " + media);
+            System.out.printf("Aprovado! Média: %.2f" , media);
         } else {
-            System.out.println("Reprovado. Média: " + media);
+            System.out.printf("Reprovado. Média: %.2f" , media);
         }
 
         sc.close();
