@@ -34,42 +34,57 @@ Exercícios
     Descrição: Exibe os 30 primeiros valores da sequência de Fibonacci.
     Conceitos aplicados: Estruturas de repetição (for), lógica sequencial, manipulação de variáveis.
 
-  5. mediaAritmetica 📊
+  5. listandoAsMulheres 👩
+
+    Descrição: Armazena o nome, sexo e idade de 20 pessoas, exibindo apenas os dados das mulheres cadastradas.
+    Conceitos aplicados: Entrada e saída de dados, validação de entrada, estruturas de repetição.
+
+  6. maioresDe18 🔞
+
+    Descrição: Armazena o nome, sexo e idade de 20 pessoas, exibindo apenas os dados das pessoas com idade superior a 18 anos.
+    Conceitos aplicados: Entrada e saída de dados, validação de entrada, estruturas de repetição.
+
+  7. mediaAritmetica 📊
 
     Descrição: Calcula a média aritmética de dois números fornecidos pelo usuário.
     Conceitos aplicados: Entrada e saída de dados, operadores aritméticos.
 
-  6. notaAprovacao 📝
+  8. notaAprovacao 📝
 
     Descrição: Calcula a média ponderada de duas notas e informa se o aluno foi aprovado ou reprovado.
     Conceitos aplicados: Entrada e saída de dados, operadores aritméticos, estrutura condicional.
 
-  7. produtoMatriz ✖️
+  9. pesquisandoValor 🔍
+
+    Descrição: Armazena até 20 valores em um vetor e permite que o usuário pesquise a posição de um número. Caso não encontrado, exibe uma mensagem de erro.
+    Conceitos aplicados: Estruturas de repetição (for), validação de entrada, lógica condicional.
+
+  10. produtoMatriz ✖️
 
     Descrição: Multiplica os elementos de um vetor por uma constante fornecida pelo usuário.
     Conceitos aplicados: Estruturas de repetição (for), manipulação de arrays.
 
-  8. tabuada ➗
+  11. tabuada ➗
 
     Descrição: Exibe a tabuada do número 5.
     Conceitos aplicados: Estruturas de repetição (for), lógica sequencial.
 
-  9. tabuadaNumeroPositivo ➕
+  12. tabuadaNumeroPositivo ➕
 
     Descrição: Solicita um número positivo e exibe sua tabuada no intervalo de 1 a 10.
     Conceitos aplicados: Entrada e saída de dados, validação de entrada, estruturas de repetição.
 
-  10. valoresEspecíficos 📈📉
+  13. valoresEspecíficos 📈📉
 
     Descrição: Lê uma quantidade definida de valores e exibe o maior, menor, soma, média e porcentagens de valores positivos e negativos.
     Conceitos aplicados: Estruturas de repetição (for), validação de entrada, cálculos estatísticos.
 
-  11. verificarSexo ⚧️
+  14. verificarSexo ⚧️
 
     Descrição: Solicita ao usuário que informe seu sexo ("M" ou "F"), aceitando apenas respostas válidas e ignorando diferenças entre maiúsculas e minúsculas.
     Conceitos aplicados: Entrada e saída de dados, validação de entrada, estruturas de repetição.
 
-  12. volumeEsfera 🌍
+  15. volumeEsfera 🌍
 
     Descrição: Calcula o volume de uma esfera com base no raio informado pelo usuário.
     Conceitos aplicados: Entrada e saída de dados, operadores aritméticos, uso de constantes matemáticas.
