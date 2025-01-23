@@ -50,14 +50,9 @@ public class Program {
            System.out.println("Soma dos valores: " + soma);
            System.out.printf("Media: %.2f", media);
            System.out.println("Porcentagem de numeros positivos: " + porcentagemPositivos + "%");
-           System.out.println("Porcentagem de numeros negativos: " + porcentagemNegativos + "%");
-       
+           System.out.println("Porcentagem de numeros negativos: " + porcentagemNegativos + "%");	
 		
-		
-		
-		
-		
-		sc.close();
+	   sc.close();
 	}
 
 }
