@@ -12,54 +12,64 @@ Estrutura do Repositório
     README.md: Este arquivo, com explicações detalhadas sobre os exercícios.
 
 
-Exercícios Resolvidos
+Exercícios
 
-1. Conversão de Temperatura
+  1. areaDoQuadrado 🟩
 
-Converter uma temperatura de graus Celsius para Fahrenheit e exibir o resultado.
+    Descrição: Calcula a área de um quadrado com base no valor do lado informado pelo usuário.
+    Conceitos aplicados: Entrada e saída de dados, operadores aritméticos.
 
-2. Cálculo de Média para Aprovação
+  2. compra_troco 💰
 
-Solicitar duas notas e calcular a média ponderada, com pesos específicos para cada nota.
+    Descrição: Simula uma compra onde o usuário informa o valor do produto e o valor pago, calculando o troco a ser devolvido.
+    Conceitos aplicados: Entrada e saída de dados, operadores aritméticos, estrutura condicional simples.
 
-3. Sexo M ou F
+  3. cotacaoDolar 💵
 
-Aceitar apenas os valores "M" ou "F" como entrada para o sexo de um usuário, ignorando maiúsculas e minúsculas. Solicitar a entrada novamente caso o valor seja inválido.
+    Descrição: Converte um valor em reais para dólares, utilizando a cotação informada pelo usuário.
+    Conceitos aplicados: Entrada e saída de dados, operadores aritméticos.
 
-4. Tabuada do 5
+  4. fibonacci 🔢
 
-Exibir a tabuada do número 5 no intervalo de 1 a 10.
+    Descrição: Exibe os 30 primeiros valores da sequência de Fibonacci.
+    Conceitos aplicados: Estruturas de repetição (for), lógica sequencial, manipulação de variáveis.
 
-5. Tabuada de um Número Positivo
+  5. mediaAritmetica 📊
 
-Solicitar um número positivo e exibir sua tabuada no intervalo de 1 a 10. Garantir que o número seja positivo.
+    Descrição: Calcula a média aritmética de dois números fornecidos pelo usuário.
+    Conceitos aplicados: Entrada e saída de dados, operadores aritméticos.
 
-6. Tabuada Parcial de um Número Positivo
+  6. notaAprovacao 📝
 
-Solicitar um número positivo e um intervalo de valores. Garantir que o intervalo seja válido (o segundo número maior que o primeiro). Exibir a tabuada do número no intervalo decrescente.
+    Descrição: Calcula a média ponderada de duas notas e informa se o aluno foi aprovado ou reprovado.
+    Conceitos aplicados: Entrada e saída de dados, operadores aritméticos, estrutura condicional.
 
-7. Soma de 1 a 100
+  7. produtoMatriz ✖️
 
-Calcular e exibir a soma de todos os números inteiros de 1 a 100.
+    Descrição: Multiplica os elementos de um vetor por uma constante fornecida pelo usuário.
+    Conceitos aplicados: Estruturas de repetição (for), manipulação de arrays.
 
-8. Série de Fibonacci
+  8. tabuada ➗
 
-Exibir os 30 primeiros números da sequência de Fibonacci.
+    Descrição: Exibe a tabuada do número 5.
+    Conceitos aplicados: Estruturas de repetição (for), lógica sequencial.
 
-9. Maior, Menor, Soma e Média, Positivos e Negativos
+  9. tabuadaNumeroPositivo ➕
 
-Solicitar "N" números (entre 1 e 20). Calcular e exibir:
+    Descrição: Solicita um número positivo e exibe sua tabuada no intervalo de 1 a 10.
+    Conceitos aplicados: Entrada e saída de dados, validação de entrada, estruturas de repetição.
 
-O maior e o menor valor;
+  10. valoresEspecíficos 📈📉
 
-A soma e a média dos números;
+    Descrição: Lê uma quantidade definida de valores e exibe o maior, menor, soma, média e porcentagens de valores positivos e negativos.
+    Conceitos aplicados: Estruturas de repetição (for), validação de entrada, cálculos estatísticos.
 
-A porcentagem de números positivos e negativos.
+  11. verificarSexo ⚧️
 
-10. Ordem Inversa
+    Descrição: Solicita ao usuário que informe seu sexo ("M" ou "F"), aceitando apenas respostas válidas e ignorando diferenças entre maiúsculas e minúsculas.
+    Conceitos aplicados: Entrada e saída de dados, validação de entrada, estruturas de repetição.
 
-Armazenar 10 números em um vetor e exibi-los na ordem inversa da entrada.
+  12. volumeEsfera 🌍
 
-11. Produto da Matriz - Versão 1
-
-Armazenar 20 números em um vetor e multiplicar cada um deles por uma constante, armazenando o resultado no mesmo vetor.
+    Descrição: Calcula o volume de uma esfera com base no raio informado pelo usuário.
+    Conceitos aplicados: Entrada e saída de dados, operadores aritméticos, uso de constantes matemáticas.
